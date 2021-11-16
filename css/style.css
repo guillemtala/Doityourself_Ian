@@ -1,0 +1,85 @@
+* {
+    font-family: 'PT Sans', sans-serif;
+}
+
+body {
+    margin: 0;
+    padding-left: 20%;
+    padding-right: 20%;
+    background-image: url("../img/fondos\ de\ pantalla\ redbull.jpg");
+    background-attachment: fixed;
+}
+
+p {
+    font-size: 1, 5vw;
+    font-family: "Quicksand", sans-serif;
+    color: white;
+}
+
+h1 {
+    font-size: 5vw;
+    text-decoration: underline;
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+}
+
+li {
+    color: white
+}
+
+ol {
+    width: 100%;
+    list-style-type: none;
+    margin-left: 0%;
+    padding: 0%;
+    font-size: 1, 8vw;
+}
+
+#escuderias {
+    background-color: red;
+    border-radius: 10px;
+    padding: 1px;
+    background-color: red;
+    border-radius: 5px;
+    padding: 1px;
+}
+
+.pilotos p {
+    color: white;
+    background-color: white;
+}
+
+li {
+    color: orange;
+    margin-bottom: 2%;
+    margin-top: 5;
+}
+
+h3 {
+    color: red;
+    padding: 0, 5px;
+    border-radius: 5px;
+}
+
+#gifs {
+    width: 50%;
+    background-attachment: fixed;
+    padding-right: 20%;
+    padding: 20%;
+}
+
+img {
+    width: 75%;
+    border-radius: 5px;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-attachment: fixed;
+}
+
+ul {
+    background-color: yellowgreen;
+}
